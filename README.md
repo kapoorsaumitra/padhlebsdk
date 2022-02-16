@@ -2,7 +2,7 @@
 
 PadhleBsdk is a chrome extension that will remind you to study after every 45 mins. A tribute to [r/JEENEETards](https://www.reddit.com/r/JEENEETards/) for helping me survive my JEE days 🤡
 
-![welp](./oof.jpeg)
+![welp](./assets/oof.jpeg)
 
 
 ## How to Install ?
